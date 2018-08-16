@@ -19,7 +19,8 @@ Contents
     * Hit Next for remaining
 * OSX
     * Download latest version of `git` (2.8.1) from <https://git-scm.com/downloads>
-    System Preferences > Security & Privacy > General > Allow applications downloaded from > Anywhere
+        - You may need to allow applications to be downloaded from anywhere.
+        * System Preferences > Security & Privacy > General > Allow applications downloaded from > Anywhere
     * If using git for the first time from terminal, you will get a prompt to say GIT not installed do you want to download? Select yes (you don’t need the full Xcode)
 
 # Install a programming oriented text editor (feel free to use your favorite)
