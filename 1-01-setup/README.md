@@ -44,7 +44,7 @@ _Note: if you have previously installed Miniconda use `conda update anaconda` fr
 1. Download the latest version of Anaconda 3.6 x64 from <https://www.anaconda.com/download/>.
     * Windows
         * Click on Anaconda3-5.2.0-Windows-x86_64.exe and follow instructions.
-        * I like to install it in `C:\anaconda3`. **This is not the default location but it'll make it easier to find your Miniconda installation later if you need it.**
+        * I like to install it in `C:\anaconda3`. **This is not the default location but it'll make it easier to find your Anaconda installation later if you need it.**
 
     * OSX
         * Click on Anaconda3-5.2.0-MacOSX-x86_64.pkg and follow instructions
