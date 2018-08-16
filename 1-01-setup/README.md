@@ -10,7 +10,7 @@ Contents
 # Install `git`
 
 * Windows
-    * Download latest verison of `git` (2.8.3 x64) from <https://git-scm.com/downloads>
+    * Download latest verison of `git` (2.18.0 x64) from <https://git-scm.com/downloads>
     * Ensure `Git Bash Here` is selected (default)
     * Ensure `Git GUI Here` is selected (default)
     * Select `Use Git from the Windows Command Prompt` (default)
@@ -18,7 +18,7 @@ Contents
     * Select `Use MinTTY (the default terminal of MSYS2)` (default)
     * Hit Next for remaining
 * OSX
-    * Download latest version of `git` (2.8.1) from <https://git-scm.com/downloads>
+    * Download latest version of `git` (2.18.0) from <https://git-scm.com/downloads>
         - You may need to allow applications to be downloaded from anywhere.
         * System Preferences > Security & Privacy > General > Allow applications downloaded from > Anywhere
     * If using git for the first time from terminal, you will get a prompt to say GIT not installed do you want to download? Select yes (you don’t need the full Xcode)
