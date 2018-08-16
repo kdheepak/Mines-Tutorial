@@ -27,7 +27,7 @@ Contents
 
 *We will make extensive use of text files, so you will want a good quality, programmer oriented text editor. Feel free to substitute your favorite alternative editor.*
 
-### Option 1: (RECOMMENDED)
+### Option 1: Visual Studio Code (RECOMMENDED)
 
 1. Download and install [VSCode](https://code.visualstudio.com/)
 
