@@ -10,9 +10,9 @@ Other implementations of Python include Jython, IronPython, PyPy etc.
 
 Open a Terminal or the Command Prompt.
 
-**Note: We’ll be showing number of commands as code snippets in the following presentation using a terminal, and those lines all start with `$`.
+*Note: We’ll be showing number of commands as code snippets in the following presentation using a terminal, and those lines all start with `$`.
 You don’t need to type in the `$` character; they are there to indicate the start of each command.
-Lines that don’t start with `$` are typically showing the output of the previous command.**
+Lines that don’t start with `$` are typically showing the output of the previous command.*
 
 Type `python` and hit enter.
 
