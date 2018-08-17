@@ -1,8 +1,6 @@
 # Download Tutorial Material
 
-1. [Click here for the link to the repository](https://github.com/kdheepak/Mines-Tutorial)
-
-2.
+[Click here for the link to the repository](https://github.com/kdheepak/Mines-Tutorial)
 
 **Option 1: git clone the tutorial**
 
@@ -12,5 +10,8 @@ git clone https://github.com/kdheepak/Mines-Tutorial
 
 **Option 2: download the tutorial as a ZIP file**
 
+[Click here](https://github.com/kdheepak/Mines-Tutorial/archive/master.zip)
 
-![Download as ZIP](../static/img/download-zip.png)
+OR
+
+[![Download as ZIP](../static/img/download-zip.png)](https://github.com/kdheepak/Mines-Tutorial/archive/master.zip)
