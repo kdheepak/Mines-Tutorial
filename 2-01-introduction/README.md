@@ -6,6 +6,20 @@ CPython is the reference implementation of Python language written in C.
 CPython is the most widely-used implementation of the language.
 Other implementations of Python include Jython, IronPython, PyPy etc.
 
+### Why choose Python?
+
+Python is very popular.
+It ranks 1 in [IEEE Spectrum's top ten languages of 2018](https://spectrum.ieee.org/at-work/innovation/the-2018-top-programming-languages).
+It ranks 7 in [StackOverflow's most popular technolgies](https://insights.stackoverflow.com/survey/2018).
+
+You can use Python for almost anything.
+A good quote I've heard is that Python is the second best language for everything.
+It is used in data science, scientific and mathematical computing, web development, automation and more.
+
+Python is simple, easy and fun to learn. It is also free.
+
+See [dbader](https://dbader.org/blog/why-learn-python) post for more on why Python?
+
 ### How do you run Python?
 
 Open a Terminal or the Command Prompt.
@@ -27,17 +41,12 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> print("hello world")
 hello world
 >>>
->>>
->>> 1 + 1
-2
->>>
->>>
 ```
 
 The three `>` is the prompt. Anything you type after the prompt must be valid Python code.
 Go on, try to print the string `hello world` on to the screen.
 
-You can also create a file on your computer, for example `main.py` and run it using Python by typing:
+You can also create a file on your computer, for example `main.py`, add the text `print("hello world")` and run it using Python by typing:
 
 ```
 $ python main.py
