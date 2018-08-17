@@ -3,7 +3,7 @@
 ### Starting a notebook
 
 
-```python
+```bash
 $ jupyter notebook
 ```
 
