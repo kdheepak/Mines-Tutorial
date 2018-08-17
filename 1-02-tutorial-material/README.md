@@ -13,4 +13,4 @@ git clone https://github.com/kdheepak/Mines-Tutorial
 **Option 2: download the tutorial as a ZIP file**
 
 
-![Download as ZIP](https://github.com/kdheepak/Mines-Tutorial/releases/download/v0.0.1/download-zip.png)
+![Download as ZIP](../static/img/download-zip.png)
