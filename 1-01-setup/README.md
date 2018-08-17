@@ -25,7 +25,7 @@ Contents
 
 # Install a programming oriented text editor (feel free to use your favorite)
 
-*We will make extensive use of text files, so you will want a good quality, programmer oriented text editor. Feel free to substitute your favorite alternative editor.*
+*We will make extensive use of text files, so you may want a good quality, programmer oriented text editor. Feel free to substitute your favorite alternative editor.*
 
 ### Option 1: Visual Studio Code (RECOMMENDED)
 
