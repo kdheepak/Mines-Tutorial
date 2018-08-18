@@ -52,10 +52,35 @@ You can also create a file on your computer, for example `main.py`, add the text
 $ python main.py
 ```
 
+### Exercise 1
+
+```python
+>>> 1 + 1
+
+>>> 2 - 1
+
+>>> 1 - 2
+
+>>> 22 / 7
+
+>>> 2 ** 10
+
+>>> 2 ** 1000
+```
+
+### Exercise 2
+
+- Try multiplication and division.
+- What rules does Python follow for ordering?
+- Try to figure out what `%` does
+
+<!--
 
 Fun fact:
 
 The name Python comes from the British comedy group Monty Python, and not from the snake.
 Python programmers are usually called Pythonistas.
 There are many Monty Python and snake references peppered around Python tutorials and documentation. Can you find them?
+
+-->
 
