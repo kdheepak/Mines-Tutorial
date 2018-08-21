@@ -1,10 +1,32 @@
 Contents
 ========
 
+- Install Python
 - Install git (for code version control)
 - Install a programming oriented text editor
 - Install text editor
-- Check and Install Python
+
+# Install Python
+
+**Using Anaconda (RECOMMENDED)**
+
+_Note: if you have previously installed Miniconda use `conda update anaconda` from the command line_
+
+1. Download the latest version of Anaconda 3.6 x64 from <https://www.anaconda.com/download/>.
+    * Windows
+        * Click on Anaconda3-5.2.0-Windows-x86_64.exe and follow instructions.
+        * I like to install it in `C:\anaconda3`. **This is not the default location but it'll make it easier to find your Anaconda installation later if you need it.**
+
+    * OSX
+        * Click on Anaconda3-5.2.0-MacOSX-x86_64.pkg and follow instructions
+        * I like to install it in `~/anaconda3` (default).
+
+2. Verify that conda has been installed
+    * `conda --version` should result in `conda 4.5.9` or later
+    * Windows : pip --version should result in something like `pip 10.0.1 from C:\anaconda3\lib\site-packages/pip (python 3.6)`
+    * OSX : `pip --version` should result in something like `pip 10.0.1 from /Users/$USER/anaconda3/lib/python3.6/site-packages/pip (python 3.6)`
+
+**If you do not see `anaconda` in the path string when you type `pip --version`, reinstall anaconda and check if the installation was successful. If you still do not see anaconda in the path, check your `$PATH` variable to see if the directory to anaconda exists.
 
 # Install `git`
 
@@ -35,28 +57,6 @@ Contents
 ### Option 2: Sublime Text (alternative)
 
 1.  Download and install Sublime Text 3 from <https://www.sublimetext.com/3>
-
-# Install Python
-
-**Using Anaconda (RECOMMENDED)**
-
-_Note: if you have previously installed Miniconda use `conda update anaconda` from the command line_
-
-1. Download the latest version of Anaconda 3.6 x64 from <https://www.anaconda.com/download/>.
-    * Windows
-        * Click on Anaconda3-5.2.0-Windows-x86_64.exe and follow instructions.
-        * I like to install it in `C:\anaconda3`. **This is not the default location but it'll make it easier to find your Anaconda installation later if you need it.**
-
-    * OSX
-        * Click on Anaconda3-5.2.0-MacOSX-x86_64.pkg and follow instructions
-        * I like to install it in `~/anaconda3` (default).
-
-2. Verify that conda has been installed
-    * `conda --version` should result in `conda 4.5.9` or later
-    * Windows : pip --version should result in something like `pip 10.0.1 from C:\anaconda3\lib\site-packages/pip (python 3.6)`
-    * OSX : `pip --version` should result in something like `pip 10.0.1 from /Users/$USER/anaconda3/lib/python3.6/site-packages/pip (python 3.6)`
-
-**Do not proceed if you do not see `anaconda` in the path string when you type `pip --version`.** If you do not see anaconda, reinstall anaconda and check if the installation was successful. If you still do not see anaconda in the path, check your `$PATH` variable to see if the directory to anaconda exists.
 
 
 Footnotes
