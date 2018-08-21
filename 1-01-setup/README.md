@@ -27,15 +27,13 @@ Contents
 
 *We will make extensive use of text files, so you may want a good quality, programmer oriented text editor. Feel free to substitute your favorite alternative editor.*
 
-### Option 1: Visual Studio Code (RECOMMENDED)
+### Option 1: Visual Studio Code OR Atom (RECOMMENDED)
 
 1. Download and install [VSCode](https://code.visualstudio.com/)
 
-### Option 2: Atom
-
 1. Download and install [Atom](https://atom.io/)
 
-### Option 3: Sublime Text (alternative)
+### Option 2: Sublime Text (alternative)
 
 1.  Download and install Sublime Text 3 from <https://www.sublimetext.com/3>
 
