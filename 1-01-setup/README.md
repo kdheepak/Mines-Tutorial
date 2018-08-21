@@ -50,7 +50,11 @@ _Note: if you have previously installed Miniconda use `conda update anaconda` fr
 
 ### Option 1: Visual Studio Code OR Atom (RECOMMENDED)
 
+Both text editors are equally excellent text editors.
+
 1. Download and install [VSCode](https://code.visualstudio.com/)
+
+See this [page](https://code.visualstudio.com/docs/languages/python) for how to install python extensions for VSCode.
 
 1. Download and install [Atom](https://atom.io/)
 
