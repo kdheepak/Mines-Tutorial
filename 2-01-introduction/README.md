@@ -52,6 +52,8 @@ You can also create a file on your computer, for example `main.py`, add the text
 $ python main.py
 ```
 
+There is also `ipython`.
+
 ### Exercise 1
 
 ```python
