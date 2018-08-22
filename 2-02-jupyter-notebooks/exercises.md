@@ -59,6 +59,44 @@ Can you make the expression work without changing the expression?
 
 What happens when you use f strings to create the string above?
 
+[Exercise 3](./lists-and-dictionaries.md#exercise-1)
+
+** Exercise 3**
+
+```python
+list_of_numbers = list(range(0, 100))
+```
+
+1) Create a `list_of_odd_numbers` from the `list_of_numbers`
+
+2) Remove all multiples of `3` from `list_of_odd_numbers`
+
+
+[Exercise 4](./lists-and-dictionaries.md#exercise-2)
+
+** Exercise 4**
+
+Can you print a table that has both name and color of every animal listed in `animals`
+
+
+```python
+spaces = 4
+
+print(f"Name {' ' *spaces} | Color |")
+
+for animal in animals:
+
+    print(f"{animal['name']} | {animal['color']}")
+
+
+
+```
+
+    Name      | Color |
+    dog | brown
+    cat | white
+    bear | black
+    squirrel | red
 
 
 
