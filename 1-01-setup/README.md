@@ -5,7 +5,6 @@
 - Install Python
 - Install git (for code version control)
 - Install a programming oriented text editor
-- Install text editor
 
 ## Install Python
 
