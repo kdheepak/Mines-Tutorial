@@ -30,6 +30,7 @@ response = requests.get("https://xkcd.com")
 response.content
 ```
 
+<!--
 
 ```python
 import bs4
@@ -60,6 +61,12 @@ r = requests.get(url_to_comic)
 im = Image.open(BytesIO(r.content))
 
 im
+```
+
+-->
+
+```python
+get_random_comic()
 ```
 
 ![](./XKCD-Generator_files/XKCD-Generator_2_0.png)
