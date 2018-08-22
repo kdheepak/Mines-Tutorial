@@ -18,6 +18,5 @@ $ jupyter notebook
 - [Functions](./functions.md)
 - [Lists and Dictionaries](./lists-and-dictionaries.md)
 - [Modules and Packages](./importing-modules.md)
-- [Pip and installing third party packages](./importing-modules.md)
 - [XKCD Random Comic Generator](./XKCD-Generator.md)
 - [Pandas examples](./EIA-coal-production.md)
