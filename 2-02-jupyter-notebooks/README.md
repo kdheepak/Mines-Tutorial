@@ -10,7 +10,7 @@ $ jupyter notebook
 ![](../static/img/notebook-server.png)
 
 
-### TOC
+### Table of Contents
 
 - [Jupyter Notebook Basic](./jupyter-notebook-basics.md)
 - [Introduction](./introduction.md)
