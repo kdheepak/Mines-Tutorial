@@ -67,12 +67,7 @@ See this [page](https://code.visualstudio.com/docs/languages/python) for how to 
 Footnotes
 ---------
 
-[^1]: An easy way to start the terminal is to press Command-space and
-    then start typing Terminal in the spotlight search box. It will most
-    likely be the first hit.
+An easy way to start the terminal is to press Command-space and then start typing Terminal in the spotlight search box. It will most likely be the first hit.
 
-[^5]: An easy way to start a command prompt under Windows 7 is through
-    the Start Menu|Search for programs and files box. Type cmd and it
-    should appear. Under Vista/XP, use the “Run…” option under the start
-    menu and type cmd.
+An easy way to start a command prompt under Windows 7 is through the Start Menu|Search for programs and files box. Type cmd and it should appear. Under Vista/XP, use the “Run…” option under the start menu and type cmd.
 
