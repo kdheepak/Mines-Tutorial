@@ -311,7 +311,7 @@ https://docs.python.org/3.6/library/stdtypes.html#string-methods
 
 -->
 
-2) Interchange the values in `variable1` and `variable2`  
+2) Interchange the values in `variable1` and `variable2`
 
 ```
 
@@ -338,7 +338,7 @@ print(variable1, variable2)
     20 10
 
 
-### Python Types
+**Python Types**
 
 
 ```python
@@ -595,7 +595,7 @@ type("1")
     TypeError: must be str, not float
 
 
-### Valid variable names
+**Valid variable names**
 
 Do you know what the difference between a variable and a string is?
 
