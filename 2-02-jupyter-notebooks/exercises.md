@@ -27,7 +27,7 @@ variable2 = 20
 
 *Hint: You can use a separate new variable*
 
-** Exercise - Part 2 **
+**Exercise - Part 2**
 
 3) Find what is wrong with the following expression. Can you fix it?
 
