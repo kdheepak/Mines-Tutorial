@@ -12,7 +12,7 @@ $ jupyter notebook
 
 ### Table of Contents
 
-- [Jupyter Notebook Basic](./jupyter-notebook-basics.md)
+- [Jupyter Notebook Basics](./jupyter-notebook-basics.md)
 - [Introduction](./introduction.md)
 - [Control Flow](./control-flow.md)
 - [Functions](./functions.md)
