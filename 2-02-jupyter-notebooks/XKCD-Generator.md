@@ -62,3 +62,5 @@ im = Image.open(BytesIO(r.content))
 im
 ```
 
+![](./XKCD-Generator_files/XKCD-Generator_2_0.png)
+
