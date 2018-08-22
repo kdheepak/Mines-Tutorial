@@ -10,7 +10,7 @@ Contents
 
 **Using Anaconda (RECOMMENDED)**
 
-_Note: if you have previously installed Miniconda use `conda update anaconda` from the command line_
+_Note: if you have previously installed Anaconda use `conda update anaconda` from the command line_
 
 1. Download the latest version of Anaconda 3.6 x64 from <https://www.anaconda.com/download/>.
     * Windows
