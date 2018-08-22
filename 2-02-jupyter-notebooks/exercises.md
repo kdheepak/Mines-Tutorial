@@ -27,4 +27,35 @@ variable2 = 20
 
 *Hint: You can use a separate new variable*
 
+[Exercise 2](./introduction.md#exercise-2)
+
+** Exercise 2 **
+
+Find what is wrong with the following expression. Can you fix it?
+
+
+```python
+age = 99
+```
+
+
+```python
+"I am " + age + " years old."
+```
+
+
+    ---------------------------------------------------------------------------
+
+    TypeError                                 Traceback (most recent call last)
+
+    <ipython-input-104-552dcf048967> in <module>()
+    ----> 1 "I am " + age + " years old."
+
+
+    TypeError: must be str, not int
+
+
+Can you make the expression work without changing the expression?
+
+What happens when you use f strings to create the string above?
 

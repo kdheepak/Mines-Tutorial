@@ -295,7 +295,7 @@ var4 = var1 + var2 + var3
 var4
 ```
 
-### Exercise
+### Exercise-1
 
 **Exercise**
 
@@ -686,8 +686,9 @@ f"The month is {month}, and the date is {date}"
     'The month is Aug, and the date is 22nd'
 
 
+### Exercise-2
 
-** Exercise 2 **
+** Exercise **
 
 Find what is wrong with the following expression. Can you fix it?
 
