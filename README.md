@@ -1,7 +1,7 @@
-# # Mines-Tutorial [![Mines-Tutorial](https://img.shields.io/badge/mines-tutorial-blue.svg)](http://kdheepak.github.io/Mines-Tutorial)
+# # Python-Tutorial [![Python-Tutorial](https://img.shields.io/badge/python-tutorial-blue.svg)](http://kdheepak.github.io/Python-Tutorial)
 
-- [HTML](http://kdheepak.github.io/Mines-Tutorial)
-- [GitHub](http://github.com/kdheepak/Mines-Tutorial)
+- [HTML](http://kdheepak.github.io/Python-Tutorial)
+- [GitHub](http://github.com/kdheepak/Python-Tutorial)
 
 ### Installation instructions
 
