@@ -59,3 +59,6 @@ Can you make the expression work without changing the expression?
 
 What happens when you use f strings to create the string above?
 
+
+
+
