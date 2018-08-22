@@ -2,7 +2,7 @@
 
 ### Exercise 1
 
-**Exercise**
+**Exercise - Part 1**
 
 1) What does `"2" + "3"` give you in Python?
 
@@ -26,6 +26,8 @@ variable2 = 20
 ```
 
 *Hint: You can use a separate new variable*
+
+** Exercise - Part 2 **
 
 3) Find what is wrong with the following expression. Can you fix it?
 
