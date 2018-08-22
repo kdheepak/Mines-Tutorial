@@ -8,29 +8,14 @@
 
 **Basic control flow primitives**
 
-
 ```python
 True
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
 False
 ```
-
-
-
-
-    False
-
-
 
 
 ```python
@@ -43,25 +28,16 @@ variable
 ```
 
 
-
-
-    True
-
+```python
+True
+```
 
 
 **Comparison operators**
 
-
 ```python
 variable == True
 ```
-
-
-
-
-    True
-
-
 
 
 ```python
@@ -69,47 +45,19 @@ variable == True
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
 1 == 1.0
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
-2 == 1
+type(1) == type(1.0)
 ```
 
 
-
-
-    False
-
-
-
-
 ```python
-1 == int(1.5)
+1 == "1"
 ```
-
-
-
-
-    True
-
-
 
 
 ```python
@@ -117,23 +65,9 @@ True == True
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
-1 != 2
+True != "True"
 ```
-
-
-
-
-    True
-
-
 
 
 ```python
@@ -141,35 +75,19 @@ True == True
 ```
 
 
-
-
-    False
-
-
-
-
-```python
-"hello" != "world"
-```
-
-
-
-
-    True
-
-
-
-
 ```python
 "hello" == "Hello"
 ```
 
 
+```python
+"hello" == "hello"
+```
 
 
-    False
-
-
+```python
+"hello " == "hello"
+```
 
 
 ```python
@@ -177,54 +95,32 @@ True == True
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
-10 >= 5
+"a" < "b"
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
-5 >= 5
+"a" < "aa"
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
-5 > 5
+5 < 5
 ```
 
 
+```python
+5 <= 5
+```
 
 
-    False
-
+```python
+None == None
+```
 
 
 **Binary operators**
-
-
-```python
-# `and`
-```
 
 
 ```python
@@ -232,51 +128,13 @@ True and True
 ```
 
 
-
-
-    True
-
-
-
-
 ```python
 True and False
 ```
 
 
-
-
-    False
-
-
-
-
 ```python
 False and True
-```
-
-
-
-
-    False
-
-
-
-
-```python
-False and False
-```
-
-
-
-
-    False
-
-
-
-
-```python
-# `or`
 ```
 
 
@@ -285,76 +143,14 @@ True or False
 ```
 
 
-
-
-    True
-
-
-
-
-```python
-False or False
-```
-
-
-
-
-    False
-
-
-
-
-```python
-# `not`
-```
-
-
 ```python
 not True
 ```
 
 
-
-
-    False
-
-
-
-
-```python
-not False
-```
-
-
-
-
-    True
-
-
-
-
 ```python
 not not True
 ```
-
-
-
-
-    True
-
-
-
-
-```python
-not (not True)
-```
-
-
-
-
-    True
-
-
 
 
 ```python
@@ -363,15 +159,8 @@ myage = 30
 
 
 ```python
-(15 < myage) and (myage < 60)
+15 < myage and myage < 60
 ```
-
-
-
-
-    True
-
-
 
 
 ```python
@@ -379,13 +168,7 @@ myage = 30
 ```
 
 
-
-
-    True
-
-
-
-** If else conditions **
+**If else conditions**
 
 
 ```python
@@ -393,12 +176,104 @@ if myage >= 21:
 
     print("Age is over 21")
 
-print("This will always be printed because it is not indented.")
+print("This is always be printed because it is not indented")
 ```
 
-    Age is over 21
-    This will always be printed because it is not indented.
 
+```python
+name = "John Doe"
+```
+
+
+```python
+if name == "John Doe":
+
+    print("My first name is John")
+
+else:
+
+    print("My first name is NOT John")
+```
+
+
+```python
+from time import sleep
+
+counter = 5
+
+while True:
+
+    print(f"Counter is {counter}")
+    sleep(1)
+    counter = counter - 1
+```
+
+
+```python
+from time import sleep
+
+counter = 5
+
+while True:
+
+    print(f"Counter is {counter}")
+    sleep(1)
+    counter = counter - 1
+
+    if counter == 0:
+        break
+```
+
+
+```python
+from time import sleep
+
+counter = 5
+
+while counter != 0:
+
+    print(f"Counter is {counter}")
+    sleep(1)
+    counter = counter - 1
+
+```
+
+
+```python
+while True:
+
+    myname = input("What is your name: ")
+    if myname != "John":
+        continue
+    print("This will only be printed when the name is John")
+    break
+```
+
+
+```python
+for i in range(10):
+
+    print(f"The value of i is {i}")
+```
+
+
+```python
+for c in "abcdef":
+    print(c)
+```
+
+
+```python
+for i in range(10, -10, -1):
+
+    try:
+        print(f"10/{i} = {10/i}")
+    except:
+        print(f"#### Unable to perform operation for {i}")
+
+    # sleep(1)
+
+```
 
 Python is whitespace sensitive.
 

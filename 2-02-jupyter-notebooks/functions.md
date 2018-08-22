@@ -1,5 +1,31 @@
+# Functions
 
 ### Functions
+
+
+```python
+print("hello world")
+```
+
+
+```python
+print
+```
+
+
+```python
+type(print)
+```
+
+
+```python
+sleep
+```
+
+
+```python
+type(sleep)
+```
 
 
 ```python
@@ -9,28 +35,23 @@ def function_name():
 
 
 ```python
-
-function_name()
+function_name
 ```
 
-    hello world
 
+```python
+type(function_name)
+```
 
 
 ```python
 function_name()
 ```
-
-    hello world
-
 
 
 ```python
 def add_two_numbers(x, y):
-
     print(x + y)
-
-
 ```
 
 
@@ -38,18 +59,26 @@ def add_two_numbers(x, y):
 add_two_numbers(1, 2)
 ```
 
-    3
 
+```python
+z = add_two_numbers(1, 2)
+```
+
+
+```python
+z
+```
+
+
+```python
+z == None
+```
 
 
 ```python
 def add_two_numbers_and_return_result(x, y):
-
     print(x + y)
-
-    z = x + y
-
-    return z
+    return x + y
 ```
 
 
@@ -57,62 +86,21 @@ def add_two_numbers_and_return_result(x, y):
 add_two_numbers_and_return_result(1, 2)
 ```
 
-    3
-
-
-
-
-
-    3
-
-
-
 
 ```python
-variable = add_two_numbers_and_return_result(1, 2)
-```
-
-    3
-
-
-
-```python
-variable = add_two_numbers(1, 2)
-```
-
-    3
-
-
-
-```python
-variable == 3
+z = add_two_numbers_and_return_result(1, 2)
 ```
 
 
-
-
-    False
-
-
-
-
 ```python
-variable == None
+z
 ```
-
-
-
-
-    True
-
-
 
 
 ```python
 def add_two_strings_with_a_space(s1, s2):
 
     return s1 + " " + s2
-
 ```
 
 
@@ -121,23 +109,9 @@ add_two_strings_with_a_space("hello", "world")
 ```
 
 
-
-
-    'hello world'
-
-
-
-
 ```python
 add_two_strings_with_a_space(s1="hello", s2="world")
 ```
-
-
-
-
-    'hello world'
-
-
 
 
 ```python
@@ -145,74 +119,14 @@ s1
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-15-d0257f733e5e> in <module>()
-    ----> 1 s1
-
-
-    NameError: name 's1' is not defined
-
-
-
-```python
-s2
-```
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-16-630081a5992e> in <module>()
-    ----> 1 s2
-
-
-    NameError: name 's2' is not defined
-
-
-
 ```python
 add_two_strings_with_a_space(s3="hello", s2="world")
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    TypeError                                 Traceback (most recent call last)
-
-    <ipython-input-17-abdfc691fda2> in <module>()
-    ----> 1 add_two_strings_with_a_space(s3="hello", s2="world")
-
-
-    TypeError: add_two_strings_with_a_space() got an unexpected keyword argument 's3'
-
-
-
-```python
-add_two_strings_with_a_space(s1="hello", s2="world")
-```
-
-
-
-
-    'hello world'
-
-
-
-
 ```python
 add_two_strings_with_a_space(s2="world", s1="hello")
 ```
-
-
-
-
-    'hello world'
-
-
 
 
 ```python
@@ -227,53 +141,22 @@ add_two_strings("hello", "world")
 ```
 
 
-
-
-    'hello world'
-
-
-
-
 ```python
 add_two_strings("hello", "world", "_______")
 ```
-
-
-
-
-    'hello_______world'
-
-
 
 
 ```python
 add_two_strings("hello", "world", delimiter="_______")
 ```
 
-
-
-
-    'hello_______world'
-
-
-
-
-```python
-add_two_strings?
-```
-
-
-```python
-# Redefine functions
-```
-
-### Scopes and Functions
+### Scopes
 
 
 ```python
 def function():
-    name = "John Doe"
-    print(name)
+    my_name_inside_function = "John Doe"
+    print(my_name_inside_function)
 ```
 
 
@@ -281,22 +164,23 @@ def function():
 function()
 ```
 
-    John Doe
-
-
 
 ```python
-name
+my_name_inside_function
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-27-9bc0cb2ed6de> in <module>()
-    ----> 1 name
+```python
+age = 100
+```
 
 
-    NameError: name 'name' is not defined
+```python
+def function():
+    print(age)
+```
 
+
+```python
+function()
+```
