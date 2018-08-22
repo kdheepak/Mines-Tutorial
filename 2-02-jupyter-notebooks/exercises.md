@@ -66,6 +66,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 2) Define a function that can convert a integer into a string and print it in console.
 3) Define a function that can convert a integer into a string and returns the string.
 4) Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print all strings line by line. Can you make this function work for `N` number of strings, i.e. an arbitrary number of strings?
+5) Can you write a function that calculates the factorial of any number?
 
 ### Exercise 4
 
