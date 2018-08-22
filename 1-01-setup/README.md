@@ -64,10 +64,9 @@ See this [page](https://code.visualstudio.com/docs/languages/python) for how to 
 1.  Download and install Sublime Text 3 from <https://www.sublimetext.com/3>
 
 
-Footnotes
----------
+## Footnotes
 
 An easy way to start the terminal is to press Command-space and then start typing Terminal in the spotlight search box. It will most likely be the first hit.
 
-An easy way to start a command prompt under Windows 7 is through the Start Menu|Search for programs and files box. Type cmd and it should appear. Under Vista/XP, use the “Run…” option under the start menu and type cmd.
+An easy way to start a command prompt under Windows 7 is through the Start Menu and then Search for programs and files box. Type cmd and it should appear. Under Vista/XP, use the “Run…” option under the start menu and type cmd.
 
