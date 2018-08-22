@@ -1,12 +1,13 @@
-Contents
-========
+# Setup instructions
+
+### Contents
 
 - Install Python
 - Install git (for code version control)
 - Install a programming oriented text editor
 - Install text editor
 
-# Install Python
+## Install Python
 
 **Using Anaconda (RECOMMENDED)**
 
@@ -28,7 +29,7 @@ _Note: if you have previously installed Anaconda use `conda update anaconda` fro
 
 **If you do not see `anaconda` in the path string when you type `pip --version`, reinstall anaconda and check if the installation was successful. If you still do not see anaconda in the path, check your `$PATH` variable to see if the directory to anaconda exists.
 
-# Install `git`
+## Install `git`
 
 * Windows
     * Download latest verison of `git` (2.18.0 x64) from <https://git-scm.com/downloads>
@@ -44,7 +45,7 @@ _Note: if you have previously installed Anaconda use `conda update anaconda` fro
         * System Preferences > Security & Privacy > General > Allow applications downloaded from > Anywhere
     * If using git for the first time from terminal, you will get a prompt to say GIT not installed do you want to download? Select yes (you don’t need the full Xcode)
 
-# Install a programming oriented text editor (feel free to use your favorite)
+## Install a programming oriented text editor (feel free to use your favorite)
 
 *We will make extensive use of text files, so you may want a good quality, programmer oriented text editor. Feel free to substitute your favorite alternative editor.*
 
