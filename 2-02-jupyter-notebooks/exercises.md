@@ -27,9 +27,7 @@ variable2 = 20
 
 *Hint: You can use a separate new variable*
 
-**Exercise**
-
-Find what is wrong with the following expression. Can you fix it?
+3) Find what is wrong with the following expression. Can you fix it?
 
 
 ```python
