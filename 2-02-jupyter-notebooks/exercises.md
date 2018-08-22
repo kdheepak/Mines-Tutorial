@@ -109,3 +109,7 @@ E _ _ _ _ _ _ _ E
 
 How would you go about making a tic tac toe game in Python? Can you describe the algorithm on paper? What data structures in Python could you use to accomplish this task?
 
+### Exercise 8
+
+Write a XKCD random comic generator.
+
