@@ -12,12 +12,12 @@ $ jupyter notebook
 
 ### TOC
 
-- [Jupyter Notebook Basic](./jupyter-notebook-basics.ipynb)
-- [Introduction](./introduction.ipynb)
-- [Control Flow](./control-flow.ipynb)
-- [Lists and Dictionaries](./lists-and-dictionaries.ipynb)
-- [Functions](./functions.ipynb)
-- [Modules and Packages](./importing-modules.ipynb)
-- [Pip and installing third party packages](./importing-modules.ipynb)
-- [Example 1](./XKCD-Generator.ipynb)
-- [Example 2](./EIA-coal-production.ipynb)
+- [Jupyter Notebook Basic](./jupyter-notebook-basics.md)
+- [Introduction](./introduction.md)
+- [Control Flow](./control-flow.md)
+- [Lists and Dictionaries](./lists-and-dictionaries.md)
+- [Functions](./functions.md)
+- [Modules and Packages](./importing-modules.md)
+- [Pip and installing third party packages](./importing-modules.md)
+- [Example 1](./XKCD-Generator.md)
+- [Example 2](./EIA-coal-production.md)
