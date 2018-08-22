@@ -75,7 +75,9 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 1) Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included).
 Can you print the numbers in a comma-separated sequence on a single line?
 
-2) By using list comprehension, write a program to print the list after removing the value 24 in [12,24,35,24,88,120,155].
+2) Write a program to print the list after removing the value 24 in [12,24,35,24,88,120,155].
+
+Can you do the above two with list comprehension?
 
 3) With two given lists [1,3,6,78,35,55] and [12,24,35,24,88,120,155], write a program to make a list whose elements are intersection of the above given lists.
 
