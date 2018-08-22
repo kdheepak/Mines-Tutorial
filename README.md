@@ -9,5 +9,5 @@ Follow this [link](./1-01-setup/README.md) for installation instructions for Pyt
 
 ### Tutorial material
 
-Download the tutorial material using `git` or just as a zip file. The instructions are linked [here](./1-02-tutorial-material/README.md)
+Download the tutorial material using `git` or just as a zip file. The instructions are linked [here](./1-02-tutorial-material/README.md).
 
